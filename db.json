@@ -41,6 +41,144 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 8
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 9
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 10
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 11
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 12
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 13
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 14
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 15
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 16
+    },
+    {
+      "name": "Kale",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTq2z6r0eM9jMCypTvC0QN80PUte52b8npNqbn3vyB2g_mMgo0s",
+      "price": 200,
+      "id": 17
+    },
+    {
+      "name": "Kale",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTq2z6r0eM9jMCypTvC0QN80PUte52b8npNqbn3vyB2g_mMgo0s",
+      "price": 200,
+      "id": 18
+    },
+    {
+      "name": "Kale",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTq2z6r0eM9jMCypTvC0QN80PUte52b8npNqbn3vyB2g_mMgo0s",
+      "price": 200,
+      "id": 19
+    },
+    {
+      "name": "Kale",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTq2z6r0eM9jMCypTvC0QN80PUte52b8npNqbn3vyB2g_mMgo0s",
+      "price": 200,
+      "id": 20
+    },
+    {
+      "name": "Kale",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTq2z6r0eM9jMCypTvC0QN80PUte52b8npNqbn3vyB2g_mMgo0s",
+      "price": 200,
+      "id": 21
+    },
+    {
+      "name": "Kale",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTq2z6r0eM9jMCypTvC0QN80PUte52b8npNqbn3vyB2g_mMgo0s",
+      "price": 200,
+      "id": 22
+    },
+    {
+      "name": "Kale",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTq2z6r0eM9jMCypTvC0QN80PUte52b8npNqbn3vyB2g_mMgo0s",
+      "price": 200,
+      "id": 23
+    },
+    {
+      "name": "Kale",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTq2z6r0eM9jMCypTvC0QN80PUte52b8npNqbn3vyB2g_mMgo0s",
+      "price": 200,
+      "id": 24
+    },
+    {
+      "name": "Kale",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTq2z6r0eM9jMCypTvC0QN80PUte52b8npNqbn3vyB2g_mMgo0s",
+      "price": 200,
+      "id": 25
+    },
+    {
+      "name": "Kale",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTq2z6r0eM9jMCypTvC0QN80PUte52b8npNqbn3vyB2g_mMgo0s",
+      "price": 200,
+      "id": 26
+    },
+    {
+      "name": "Kale",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTq2z6r0eM9jMCypTvC0QN80PUte52b8npNqbn3vyB2g_mMgo0s",
+      "price": 200,
+      "id": 27
+    },
+    {
+      "name": "Kale",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTq2z6r0eM9jMCypTvC0QN80PUte52b8npNqbn3vyB2g_mMgo0s",
+      "price": 200,
+      "id": 28
+    },
+    {
+      "name": "Kale",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTq2z6r0eM9jMCypTvC0QN80PUte52b8npNqbn3vyB2g_mMgo0s",
+      "price": 200,
+      "id": 29
+    },
+    {
+      "name": "Kale",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTq2z6r0eM9jMCypTvC0QN80PUte52b8npNqbn3vyB2g_mMgo0s",
+      "price": 200,
+      "id": 30
     }
   ]
 }
