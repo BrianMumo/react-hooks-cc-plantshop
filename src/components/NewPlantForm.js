@@ -3,31 +3,28 @@ import React, { useState } from "react";
 function NewPlantForm({ onAddPlant }) {
   const [formData, setFormData] = useState({ name: "", image: "", price: "" });
 
-  // Handle input changes for form fields
   const handleChange = (e) => {
     const { name, value } = e.target;
     setFormData({ ...formData, [name]: value });
   };
 
-  // Handle form submission
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    // Convert price to a number to match test expectations
+    // Send price as a string to match test expectations
     const newPlant = {
       name: formData.name,
       image: formData.image,
-      price: parseFloat(formData.price), // Explicit conversion to number
+      price: formData.price, // Keep price as a string
     };
 
-    // Send the POST request with the correct header and body structure
     fetch("http://localhost:6001/plants", {
       method: "POST",
-      headers: { "Content-Type": "Application/JSON" }, // Match case expected by the test
+      headers: { "Content-Type": "Application/JSON" }, // Match exact case expected by the test
       body: JSON.stringify(newPlant),
     })
       .then((response) => response.json())
-      .then((data) => onAddPlant(data)); // Update the plant list with the new plant
+      .then((data) => onAddPlant(data));
   };
 
   return (
